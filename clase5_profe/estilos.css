@@ -1,0 +1,7 @@
+#galeria{
+    float: left;
+    max-width: 600px;
+}
+img{
+    padding: 15px;
+}
